@@ -1,0 +1,12 @@
+Name of the student: deepika
+Register number of the student: 165
+Number of subjects: 5
+Total marks obtained: 1381
+Average: 276.0
+
+Name of the student: deepika
+Register number of the student: 165
+Number of subjects: 5
+Total marks obtained: 491
+Average: 98.0
+

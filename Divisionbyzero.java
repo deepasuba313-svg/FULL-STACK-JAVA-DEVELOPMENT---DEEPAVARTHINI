@@ -13,7 +13,7 @@ public static void main (String args[])
 	try 
 		{
 		 int result = 100 / b;
-		 System.out.println("-----Divisible by Zero Error-----");
+		 System.out.println("-----Divisible by Zero Error Program-----");
 		 System.out.println("The final result after printing was : "+result);
 		}
 	catch(Exception e) 
